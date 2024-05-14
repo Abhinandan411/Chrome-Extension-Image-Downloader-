@@ -19,9 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
       downloadIcon.addEventListener('click', function() {
         // jab koi user download button par click krega to chrome.downloads.download() ek function trigger hoga jo ki local storage se aa rhi image url ko retrive krke user ke local system me download kar dega
 
-        //chrome.downloads.download() function ek part hai Chrome Extension API ka, jo Chrome browser ke ek feature ko enable karta hai jisse users images, files, ya anya resources ko download kar sakein. 
-
-        // Reference : https://developer.chrome.com/docs/extensions/reference/api/downloads
+        
         
         chrome.downloads.download({ url: url });
 
