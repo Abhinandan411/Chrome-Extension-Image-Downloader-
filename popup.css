@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image:linear-gradient(45deg, #aaf0d3, #e6f3ff, #ffccff);
+    margin: 0;
+    padding: 20px;
+  }
+.extensionbox {
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    overflow-y: auto; 
+    background-color: #f1f1f1;
+    border: 1px solid #c1d6c4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+  }
+  h1{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    animation: pulse 2s infinite alternate;
+    font-size: 18px;
+  }
+  @keyframes pulse {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.1);
+    }
+  }
+  
+  #imagesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center;
+  }
+  
+  .imageContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  img {
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+    border-radius: 5px;
+  }
+  .downloadIcon {
+    position: absolute;
+    top: 5px; 
+    right: 5px;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    z-index: 1;
+    background-color: rgb(183, 243, 210);
+    border-radius: 20px;
+  }
+  .downloadIcon:hover{
+    background-color: rgb(124, 204, 160);
+    transition: .3s ease;
+  }
