@@ -69,3 +69,8 @@ JavaScript is a dynamic programming language that is used for web development, i
 2. You'll be greeted with a new inspirational or humorous quote, along with the current time and temperature, all displayed against a soothing background video.
 3. To search Google, simply enter your query in the search box provided on the new tab page and press Enter.
 ```
+
+## 😍Extension output on any website :
+
+
+## 😍Extension output :
