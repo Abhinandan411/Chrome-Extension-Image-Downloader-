@@ -1,6 +1,11 @@
 # Chrome Extension 
 ## ⬇️ Image Downloader 🖼️
 
+## 🗃️ Repository link :
+[https://github.com/Abhinandan411/Chrome-Extension-Image-Downloader-](https://github.com/Abhinandan411/Chrome-Extension-Image-Downloader-)
+
+
+
 ## 👀 Overview :
 ```
 The Image Downloader Chrome extension allows users to download images from any website. It simplifies the process of saving images by providing easy access and download options directly from the webpage.
@@ -18,6 +23,25 @@ The Image Downloader Chrome extension allows users to download images from any w
 
 🔖Context Menu Integration: Right-click on any image to download it directly
 ```
+
+## 🖥️ Technologies Used 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+ #### 1. HTML 
+ ``` 
+HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.
+```
+
+ #### 2. CSS  
+```
+Applied for styling and layout with different CSS properties
+ ```
+
+#### 3. JAVASCRIPT 
+```
+JavaScript is a dynamic programming language that is used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.
+```
+
+
 
 ## 🔥 Advantages :
 ```
