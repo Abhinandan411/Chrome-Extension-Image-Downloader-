@@ -71,6 +71,9 @@ JavaScript is a dynamic programming language that is used for web development, i
 ```
 
 ## 😍Extension output on any website :
+![OutputOnWebsite](https://github.com/Abhinandan411/Chrome-Extension-Image-Downloader-/assets/131553633/1276d4eb-e759-486f-9afa-4389da5e21eb)
 
 
 ## 😍Extension output :
+![ExtensionOutput](https://github.com/Abhinandan411/Chrome-Extension-Image-Downloader-/assets/131553633/0d086e38-cb26-4304-8dd4-57dd3146112d)
+
