@@ -1,4 +1,4 @@
-# Chrome Extension ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zctof&psig=AOvVaw3rveKGV_dB5GM88cHhDdVs&ust=1715877686594000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi_q9KMkIYDFQAAAAAdAAAAABAE)
+# 🔥Chrome Extension
 
 ## ⬇️ Image Downloader 🖼️
 
